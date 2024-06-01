@@ -1,0 +1,16 @@
+Halo om!!
+
+Jadi tipe produk yang bakal ditampilin itu kan ada kost dan kontrakan dan kalo kost itu ada 2 tipe harga, harga bulanan dan juga harga tahunan.
+
+kalo harga bulanan range slidernya dari 0 dan maksnya di 5 jt, dan kalo harga tahunan slidernya dari 0 dan maksnya di 50 jt.
+
+sedangkan untuk kontrakan range slidernya itu dari 0 dan maksnya di 50 jt, sama seperti slider yang kost tahunan.
+
+itu udah aku tampilin slider yang dibuat pake vanila js sama pake alpineJs. Kalo yang pake yang alpine itu belom di format ke rupiah, sebenernya kalo yang di adminSide itu aku inputan buat produknya typenya text, dan kalo yang di vanila itu udh ada format ke rupiah. 
+
+Dan entah kenapa kalo yang slider pake alpineJs itu scriptnya gabisa dipisah harus ditaro di file htmlnya, sebenernya bisa kalo ga pake penulisan ngikutin javascript ES6 yang pake type="module" itu. Cuma karena di project yang aku buat ada yang mengharuskan import dan ekspor jadi harus pake penulisan ES6.
+
+Itu terserah om mau benerin yang alpine atau yang vanila, tapi mending vanila sii hehee.. soalnya aku juga baru ngulik-ngulik alpineJs.
+
+Thank u yaa om!
+
